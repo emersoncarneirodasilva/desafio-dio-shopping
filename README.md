@@ -1,2 +1,3 @@
-# desafio-dio-shopping
+# Desafio DIO shopping
  
+Projeto de um E-commerce onde foi integrado um Fron-End (React.JS) com uma API REST (desenvolvida em Node.js). 
